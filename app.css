@@ -1,0 +1,116 @@
+body {
+    background: #A6D6DE;
+    font-family: "Nunito", sans-serif;
+/* background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); */
+}
+
+#basketball {
+    width: 1800px;
+    height: 930px;
+
+}
+
+#luka {
+    width: 1800px;
+    height: 930px;
+
+}
+
+#jokic {
+    width: 1800px;
+    height: 930px;
+}
+
+#James {
+    width: 1800px;
+    height: 930px;
+
+}
+
+#beard {
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+
+}
+#wand {
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+
+#joker {
+    width: 60px;
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+
+.blurb h2 {
+    color: #1C1E4A;
+    font-weight: 100;
+    font-size: 2.5rem;
+ }
+ 
+ .blurb p {
+     color: #1C1E4A;
+     font-weight: 100;
+     font-size: 1.125rem;
+     line-height: 2;
+ }
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+    padding: 20px ;
+}
+
+#mainNavbar .navbar-brand {
+    color: #1C1E4A;
+    font-size: 1.5rem;
+    font-weight: 100;
+    
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #1C1E4A;
+}
+
+#headingGroup span {
+    color: #1C1E4A;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.navbar.scrolled {
+    background: #63CDCF;
+    opacity: .8;
+    transition: background 500ms;
+}
+
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+    .blurb h2 {
+        font-size: 2rem;
+    }
+}
+
+
